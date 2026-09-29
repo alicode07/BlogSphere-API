@@ -263,4 +263,4 @@ User 1 ──── * Blog 1 ──── * Comment * ──── 1 User
 
 ## Author
 
-**Mohd Faisal Ali**: [GitHub](https://github.com/<your-username>)
+**Mohd Faisal Ali**: [GitHub](https://github.com/alicode07)
