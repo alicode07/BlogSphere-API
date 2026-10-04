@@ -156,6 +156,8 @@ Open **http://localhost:5253/swagger** in your browser.
 | POST | `/api/blogs/{blogId}/comments` | Yes | Add a comment |
 | DELETE | `/api/comments/{id}` | Yes (owner) | Delete a comment |
 
+### ER Diagram Structure
+
 ### Example requests
 
 **Register**
