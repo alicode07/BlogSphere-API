@@ -158,6 +158,10 @@ Open **http://localhost:5253/swagger** in your browser.
 
 ### ER Diagram Structure
 
+Inline-style: 
+![alt text](https://github.com/alicode07/BlogSphere-API/blob/main/ER%20Diagam%20Pic.png "ER Diagram")
+
+
 ### Example requests
 
 **Register**
